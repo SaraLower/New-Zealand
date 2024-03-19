@@ -1,0 +1,277 @@
+body {
+
+
+    background-color:rgb(149, 147, 147);
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ .header {
+     background-color:rgb(77, 77, 77);
+     padding: 8%;
+     font-size: 3em;
+     text-align: center;
+     color: rgb(220, 222, 223);
+     }
+    
+    
+     h2 {
+        color: rgb(87, 87, 87);
+        text-align: center;
+     }
+    
+    
+     .centerbar {
+     display: flex;
+     }
+    
+    
+    
+    
+    
+    
+     .leftcol {
+    
+    
+     display: flex;
+     flex-direction: column;
+     width: 45vw;
+     height: 75vh;
+     background-color: rgb(149, 147, 147);
+     text-align: center;
+     }
+    
+    
+     .rightcol {
+        background-color: rgb(226, 226, 226);
+        width: 200vh;
+     }
+    
+    
+    
+    
+    
+    
+     .footer {
+        font-size: 200%;
+        color: rgb(255, 255, 255);
+     background-color:rgb(77, 77, 77) ;
+      color: rgb(230, 230, 230);
+     padding: 1px;
+     text-align: center;
+     }
+    
+    
+     a {
+    
+    
+        color: rgb(255, 255, 255);
+      
+      }
+    
+    
+     .header2 {
+        background-color: rgb(77, 77, 77);
+     padding: 3%;
+     font-size: 3em;
+     text-align: center;
+     color: rgb(220, 222, 223);
+     }
+    
+    
+     .centerbar2 {
+     display: flex;
+     }
+    
+    
+     .leftcol2 {
+     display: flex;
+     flex-direction: column;
+     width: 45vw;
+     height: 75vh;
+     background-color: rgb(149, 147, 147);
+     text-align: center;
+     }
+    
+    
+     .rightcol2 {
+        background-color: rgb(212, 210, 210);
+        width: 200vh;
+     }
+    
+    
+     .footer2 {
+        font-size: 200%;
+        color: rgb(255, 255, 255);
+     background-color:rgb(77, 77, 77) ;
+      color: rgb(230, 230, 230);
+     padding: 2px;
+     text-align: center;
+     }
+    
+    
+     .header3 {
+        background-color: rgb(77, 77, 77);
+     padding: 3%;
+     font-size: 3em;
+     text-align: center;
+     color: rgb(220, 222, 223);
+     }
+    
+    
+     .centerbar3 {
+     display: flex;
+     }
+    
+    
+     .leftcol3 {
+     display: flex;
+     flex-direction: column;
+     width: 45vw;
+     height: 75vh;
+     background-color: rgb(149, 147, 147);
+     text-align: center;
+     }
+    
+    
+     .rightcol3 {
+        background-color: rgb(212, 210, 210);
+        width: 200vh;
+     }
+    
+    
+     .footer3 {
+        font-size: 200%;
+        color: rgb(255, 255, 255);
+     background-color:rgb(77, 77, 77) ;
+      color: rgb(230, 230, 230);
+     padding: 2px;
+     text-align: center;
+     }
+    
+  
+     .header4 {
+         background-color: rgb(77, 77, 77);
+      padding: 3%;
+      font-size: 3em;
+      text-align: center;
+      color: rgb(220, 222, 223);
+      }
+      
+      
+      .centerbar4 {
+      display: flex;
+      }
+      
+      
+      .leftcol4 {
+      display: flex;
+      flex-direction: column;
+      width: 45vw;
+      height: 75vh;
+      background-color: rgb(149, 147, 147);
+      text-align: center;
+      }
+      
+      
+      .rightcol4 {
+         background-color: rgb(212, 210, 210);
+         width: 200vh;
+      }
+      
+      
+      .footer4 {
+         font-size: 200%;
+         color: rgb(255, 255, 255);
+      background-color:rgb(77, 77, 77) ;
+       color: rgb(230, 230, 230);
+      padding: 2px;
+      text-align: center;
+      }
+      
+      .header5 {
+         background-color: rgb(77, 77, 77);
+      padding: 3%;
+      font-size: 3em;
+      text-align: center;
+      color: rgb(220, 222, 223);
+      }
+      
+      
+      .centerbar5 {
+      display: flex;
+      }
+      
+      
+      .leftcol5 {
+      display: flex;
+      flex-direction: column;
+      width: 45vw;
+      height: 75vh;
+      background-color: rgb(149, 147, 147);
+      text-align: center;
+      }
+      
+      
+      .rightcol5 {
+         background-color: rgb(212, 210, 210);
+         width: 200vh;
+      }
+      
+      
+      .footer5 {
+         font-size: 200%;
+         color: rgb(255, 255, 255);
+      background-color:rgb(77, 77, 77) ;
+       color: rgb(230, 230, 230);
+      padding: 2px;
+      text-align: center;
+      }
+      
+  
+      .header6 {
+         background-color: rgb(77, 77, 77);
+      padding: 3%;
+      font-size: 3em;
+      text-align: center;
+      color: rgb(220, 222, 223);
+      }
+      
+      
+      .centerbar6 {
+      display: flex;
+      }
+      
+      
+      .leftcol6 {
+      display: flex;
+      flex-direction: column;
+      width: 45vw;
+      height: 75vh;
+      background-color: rgb(149, 147, 147);
+      text-align: center;
+      }
+      
+      
+      .rightcol6 {
+         background-color: rgb(212, 210, 210);
+         width: 200vh;
+      }
+      
+      
+      .footer6 {
+         font-size: 200%;
+         color: rgb(255, 255, 255);
+      background-color:rgb(77, 77, 77) ;
+       color: rgb(230, 230, 230);
+      padding: 2px;
+      text-align: center;
+      }
+      
+    
+    
+    
+ 
