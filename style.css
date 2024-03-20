@@ -6,7 +6,11 @@ body {
  
  }
  
- 
+ .header1 {
+background-color:rgb(148, 147, 147); ;
+padding: 4%;
+color: rgb(255, 255, 255);
+ }
  
  
  .header {
