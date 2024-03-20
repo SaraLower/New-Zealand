@@ -7,10 +7,9 @@ body {
  }
  
 
- 
- .header1 {
-background-color:rgb(148, 147, 147);
+ .y {
 padding: 4%;
+background-color: rgb(148, 147, 147);
 color: rgb(255, 255, 255);
  }
  
